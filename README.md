@@ -38,7 +38,7 @@ This project follows a **2-tier architecture** with proper network isolation:
 
 ## 🖼️ Architecture Diagram
 
-vpc_architecture.png
+![Architecture](vpc_architecture.png)
 
 ---
 
